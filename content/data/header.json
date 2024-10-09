@@ -23,7 +23,7 @@
         {
             "label": "Service",
             "altText": "Service",
-            "url": "/blog",
+            "url": "/service",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
